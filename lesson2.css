@@ -1,0 +1,245 @@
+.lesson2-title {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 5px 10px;
+  text-decoration: underline;
+  background-color: #cccccc;
+  margin: 0;
+}
+
+.sub-title2a {
+font-size: 20px;
+color: gray;
+margin-top: 0;
+}
+
+.a-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.two-a {
+  font-size: 20px;
+  font-weight: bold; 
+  margin: 0;
+}
+
+.request-button {
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  border: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-right: 40px;
+}
+
+.add-button {
+  background-color: rgb(255, 216, 20);
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  border: none;
+  border-radius: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 46px;
+  padding-right: 46px;
+  margin-right: 40px;
+}
+
+.sign-button {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+.rgb-color1 {
+  font-size: 20px;
+  color: rgb(255, 216, 20);
+  font-weight: bold;
+  margin: 0;
+}
+
+.rgb-color1a {
+  font-size: 20px;
+  color: rgb(46, 164, 79);
+  font-weight: bold;
+}
+
+.two-b {
+  font-size: 20px;
+  font-weight: bold; 
+}
+
+.getstart-button {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+.download-button {
+  color: rgb(108, 117, 125);
+  font-size: 18px;
+  font-weight: bold;
+  border-width: thin;
+  border-color: rgb(108, 117, 125);
+  border-radius: 8px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 35px;
+  padding-right: 35px;
+  margin-left: 20px;
+}
+
+.apply-button {
+  background-color: rgb(10, 102, 195);
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 35px;
+  padding-right: 35px;
+  margin-left: 35px;
+}
+
+.save-button {
+  background-color: white;
+  color: rgb(10, 102, 195);
+  font-size: 18px;
+  font-weight: bold;
+  border-width: thin;
+  border-color: rgb(10, 102, 195);
+  border-radius: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+
+.rgb-color1b {
+  font-size: 20px;
+  color: rgb(121, 82, 179);
+  font-weight: bold;
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+.rgb-color1c {
+  font-size: 20px;
+  color: rgb(108, 117, 125);
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.rgb-color1d {
+  font-size: 20px;
+  color: rgb(10, 102, 195);
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.challenge-text {
+  display: inline-block;
+  color: red;
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 5px 10px;
+  text-decoration: underline;
+  background-color: #cccccc;
+  margin: 0;
+}
+
+.a-title2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.rgb-color2 {
+  font-size: 20px;
+  color: rgb(0, 113, 133);
+  font-weight: bold;
+}
+
+.amazon-link {
+  color: rgb(0, 113, 133);
+}
+
+.nike-black {
+  font-size: 20px;
+  font-weight: bolder;
+  margin-left: 180px;
+}
+
+.rgb-color3 {
+  font-size: 20px;
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+
+.rgb-color4 {
+  font-size: 20px;
+  color: rgb(255, 216, 20);
+  font-weight: bold;
+  margin: 0;
+}
+
+.rgb-color4a {
+  font-size: 20px;
+  color: rgb(255, 164, 28);
+  font-weight: bold;
+  margin: 0;
+}
+
+.add-button2 {
+  background-color: rgb(255, 216, 20);
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  border: none;
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: 0;
+}
+
+.buy-button {
+  background-color: rgb(255, 164, 28);
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  border: none;
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: 0;
+}
+
+.two-done {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bolder;
+  background-color: #cccccc;
+  text-align: center;
+}
