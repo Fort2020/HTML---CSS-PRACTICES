@@ -1,0 +1,7 @@
+# LESSON 1. EXERCISE 1 HTML - CSS BASICS
+
+
+![Lesson - 1 Exercise Basics](https://github.com/Fort2020/HTML---CSS-PRACTICES/assets/114498685/e3d5376a-8b8d-4429-b876-03a2be206969)
+
+
+## AUTHOR: FRANKFORT STAINLESSCOIN
