@@ -6,11 +6,13 @@
   text-decoration: underline;
   background-color: #cccccc;
   margin: 0;
+  margin-left: 40px;
 }
 
 .sub-title {
 font-size: 20px;
 margin-top: 0;
+margin-left: 40px;
 }
 
 .sub-title3a {
@@ -23,6 +25,7 @@ margin-top: 0;
   font-size: 20px;
   font-weight: bold;
   margin: 0;
+  margin-left: 40px;
 }
 
 .request-button {
@@ -30,11 +33,10 @@ margin-top: 0;
   color: white;
   font-size: 18px;
   border: none;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 25px;
-  padding-right: 25px;
+  height: 50px;
+  width: 160px;
   margin-right: 40px;
+  margin-left: 40px;
   cursor: pointer;
   opacity: 1;
   transition: opacity 0.3s;
@@ -47,14 +49,12 @@ margin-top: 0;
 .add-button {
   background-color: rgb(255, 216, 20);
   color: rgb(0, 0, 0);
-  font-size: 18px;
+  font-size: 19px;
   border: none;
   border-radius: 30px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 46px;
-  padding-right: 46px;
-  margin-right: 40px;
+  height: 50px;
+  width: 250px;
+  margin-right: 30px;
   cursor: pointer;
  }
 
@@ -66,13 +66,11 @@ margin-top: 0;
 .sign-button {
   background-color: rgb(46, 164, 79);
   color: white;
-  font-size: 18px;
+  font-size: 19px;
   border: none;
   border-radius: 8px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 35px;
-  padding-right: 35px;
+  height: 50px;
+  width: 120px;
   cursor: pointer;
   transition: box-shadow 0.15s;
   }
@@ -81,11 +79,19 @@ margin-top: 0;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
 }
 
+.rgb-color3b {
+  font-size: 20px;
+  color: gray;
+  margin-top: 0;
+  margin-left: 40px;
+  }
+
 .abc-title2 {
   font-size: 20px;
   font-weight: bold;
   margin-top: 18px;
   margin-bottom: 0;
+  margin-left: 40px;
  }
 
 .getstart-button {
@@ -95,10 +101,9 @@ margin-top: 0;
   font-weight: bold;
   border: none;
   border-radius: 8px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 35px;
-  padding-right: 35px;
+  height: 60px;
+  width: 150px;
+  margin-left: 40px;
   cursor: pointer;
   transition: background-color 0.15s,
   color 0.15s;
@@ -116,10 +121,9 @@ margin-top: 0;
   border-width: thin;
   border-color: rgb(108, 117, 125);
   border-radius: 8px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 35px;
-  padding-right: 35px;
+  height: 60px;
+  width: 150px;
+  margin-left: 15px;
   margin-left: 20px;
   cursor: pointer;
   transition: background-color 0.15s,
@@ -139,10 +143,9 @@ margin-top: 0;
   font-weight: bold;
   border: none;
   border-radius: 30px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 35px;
-  padding-right: 35px;
+  height: 50px;
+  width: 300px;
+  margin-left: 20px;
   margin-left: 35px;
   cursor: pointer;
   transition: background-color 0.15s,
@@ -160,10 +163,8 @@ margin-top: 0;
   border-width: thin;
   border-color: rgb(10, 102, 195);
   border-radius: 30px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 35px;
-  padding-right: 35px;
+  height: 45px;
+  width: 100px;
   cursor: pointer;
   transition: background-color 0.15s,
   color 0.15s;
@@ -183,18 +184,21 @@ margin-top: 0;
   text-decoration: underline;
   background-color: #cccccc;
   margin: 0;
+  margin-left: 40px;
 }
 
 .a-title2 {
   font-size: 20px;
   font-weight: bold;
   margin: 0;
+  margin-left: 40px;
 }
 
 .rgb-color2 {
   font-size: 20px;
   color: rgb(0, 113, 133);
   font-weight: bold;
+  margin-left: 40px;
 }
 
 .amazon-link {
@@ -211,13 +215,14 @@ margin-top: 0;
 .nike-black {
   font-size: 20px;
   font-weight: bolder;
-  margin-left: 180px;
+  margin-left: 240px;
 }
 
 .rgb-color3 {
   font-size: 20px;
   color: rgb(0, 118, 0);
   font-weight: bold;
+  margin-left: 40px;
 }
 
 .add-button2 {
@@ -226,11 +231,10 @@ margin-top: 0;
   font-size: 18px;
   border: none;
   border-radius: 30px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 40px;
-  padding-right: 40px;
+  height: 40px;
+  width: 150px;
   margin: 0;
+  margin-left: 40px;
   cursor: pointer;
   transition: background-color 0.15s,
   color 0.15s;
@@ -247,11 +251,11 @@ margin-top: 0;
   font-size: 18px;
   border: none;
   border-radius: 30px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 40px;
-  padding-right: 40px;
+  height: 40px;
+  width: 150px;
+  cursor: pointer;
   margin: 0;
+  margin-left: 20px;
   transition: background-color 0.15s,
   color 0.15s
 }
@@ -261,10 +265,16 @@ margin-top: 0;
   transition: 0.8s;
  }
 
-.two-done {
+.three-done {
   display: inline-block;
   font-size: 20px;
   font-weight: bolder;
   background-color: #cccccc;
   text-align: center;
+  margin-left: 40px;
 }
+
+.author-note {
+  text-align: center;
+  font-size: 20px;
+  }

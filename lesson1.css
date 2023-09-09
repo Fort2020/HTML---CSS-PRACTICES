@@ -7,17 +7,20 @@
   text-decoration: underline;
   background-color: #cccccc;
   margin: 0;
+  margin-left: 40px;
 }
 
 .sub-title1 {
   font-size: 20px;
   color: gray;
   margin-top: 0;
+  margin-left: 40px;
 }
 
 .one-a {
   font-size: 20px;
   font-weight: bold;
+  margin-left: 40px;
 }
 
 .click-button {
@@ -28,6 +31,7 @@
   font-size: 20px;
   font-weight: bold;
   width: 370px;
+  margin-left: 40px;
 }
 
 .name-button {
@@ -36,6 +40,7 @@
 
  .hello-world {
   font-size: 20px;
+  margin-left: 80px;
  }
 
  .one-c {
@@ -44,14 +49,24 @@
   width: 550px;
 }
 
-.about-me {
-  font-size: 20px;
-}
-
 .one-d {
   font-size: 20px;
   font-weight: bold;
+  width: 550px;
   margin: 0;
+  margin-left: 40px;
+}
+
+.about-me {
+  font-size: 20px;
+  margin-left: 80px;
+}
+
+.one-e {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+  margin-left: 40px;
 }
 
 .sub-title2 {
@@ -59,10 +74,16 @@
   color: gray;
   margin-top: 0;
   width: 350px;
+  margin-left: 40px;
 }
 
 .google-search {
   font-size: 20px;
+  margin-left: 40px;
+ }
+
+ .image {
+  margin-left: 40px;
  }
 
 .challenge-text {
@@ -74,19 +95,37 @@
   color: red;
   background-color: #cccccc;
   margin: 0;
+  margin-left: 40px;
 }
 
-.one-e {
+.one-g {
   font-size: 20px;
   font-weight: bold;
   width: 250px;
   margin-top: 0;
+  margin-left: 40px;
+}
+
+.add2-button {
+  font-size: 16px; 
+  margin-left: 40px;
+}
+
+.buy2-button {
+  font-size: 16px; 
 }
 
 .one-done {
   display: inline-block;
   font-size: 20px;
   font-weight: bolder;
+  text-justify: auto;
   background-color: #cccccc;
   text-align: center;
+  margin-left: 40px;
+}
+
+.author-note {
+text-align: center;
+font-size: 20px;
 }
