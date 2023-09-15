@@ -1,0 +1,383 @@
+.lesson4-title {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 5px 10px;
+  text-decoration: underline;
+  background-color: #cccccc;
+  margin: 0;
+  margin-left: 40px;
+  }
+
+.sub-title4 {
+  font-size: 20px;
+  margin: 0;
+  margin-left: 40px;
+  }
+
+.abc-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 40px;
+  margin-bottom: 0;
+  }
+
+.request-button {
+  margin-left: 40px;
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  border: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-right: 40px;
+  cursor: pointer;
+  opacity: 1;
+  transition: opacity 0.3s;
+  }
+
+.request-button:hover {
+  opacity: 0.8;
+  }
+   
+.add-button {
+  background-color: rgb(255, 216, 20);
+  color: rgb(0, 0, 0);
+  font-size: 19px;
+  border: none;
+  border-radius: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 70px;
+  padding-right: 70px;
+  margin-right: 30px;
+  cursor: pointer;
+  }
+   
+.add-button:hover {
+  background-color: rgb(255, 164, 28);
+  transition: 0.8s;
+  }
+   
+.sign-button {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  font-size: 19px;
+  border: none;
+  border-radius: 8px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 37px;
+  padding-right: 37px;
+  cursor: pointer;
+  transition: box-shadow 0.15s;
+  }
+   
+.sign-button:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  }
+   
+.rgb-color3b {
+  font-size: 20px;
+  color: gray;
+  margin-top: 0;
+  margin-left: 40px;
+  }
+   
+.abc-title2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 18px;
+  margin-bottom: 0;
+  margin-left: 40px;
+  }
+   
+.getstart-button {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 35px;
+  padding-right: 35px;
+  margin-left: 40px;
+  cursor: pointer;
+  transition: background-color 0.15s,
+  color 0.15s;
+  }
+   
+.getstart-button:hover {
+  background-color: rgb(105, 19, 235);
+  opacity: 0.9;
+  }
+   
+.download-button {
+  color: rgb(108, 117, 125);
+  font-size: 18px;
+  font-weight: bold;
+  border-width: thin;
+  border-color: rgb(108, 117, 125);
+  border-radius: 8px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 35px;
+  padding-right: 35px;
+  margin-left: 15px;
+  margin-left: 20px;
+  cursor: pointer;
+  transition: background-color 0.15s,
+  color 0.15s;
+  }
+   
+.download-button:hover {
+  background-color: rgb(108, 117, 125);
+  color: white;
+  opacity: 0.7;
+  }
+   
+.apply-button {
+  background-color: rgb(10, 102, 195);
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 35px;
+  padding-right: 35px;
+  margin-left: 20px;
+  margin-left: 35px;
+  cursor: pointer;
+  transition: background-color 0.15s,
+  }
+   
+.apply-button:hover {
+  background-color: rgb(13, 10, 195);
+  }
+   
+.save-button {
+  background-color: white;
+  color: rgb(10, 102, 195);
+  font-size: 18px;
+  font-weight: bold;
+  border-width: thin;
+  border-color: rgb(10, 102, 195);
+  border-radius: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 35px;
+  padding-right: 35px;
+  cursor: pointer;
+  transition: background-color 0.15s,
+  color 0.15s;
+  }
+   
+.save-button:hover {
+  background-color: rgb(216, 216, 250);
+  opacity: 0.5;
+  }
+
+.sub-title4a {
+  font-size: 20px;
+  margin-left: 40px;
+  margin-bottom: 0;
+  text-decoration: underline;
+  }
+
+.sub-title4b {
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 40px;
+  }
+
+.tweet-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 30px;
+  margin-top: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 35px;
+  padding-right: 35px;
+  margin-left: 20px;
+  margin-left: 35px;
+  cursor: pointer;
+  transition: box-shadow 0.15s;
+  }
+
+.tweet-button:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  }
+
+.sub-title4c {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 0;
+  margin-left: 40px;
+  }
+
+.subscribe-button {
+  background-color: rgb(200, 0, 0);
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: white;
+  font-size: 20px;
+  border: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 35px;
+  padding-right: 35px;
+  margin-right: 40px;
+  cursor: pointer;
+  opacity: 1;
+  transition: opacity 0.3s;
+  }
+
+.subscribe-button:hover {
+  opacity: 0.8;
+  }
+
+.challenge-text {
+  display: inline-block;
+  color: rgb(200, 0, 0);
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 5px 10px;
+  text-decoration: underline;
+  background-color: #cccccc;
+  margin-left: 40px;
+  }
+
+.back-button {
+  margin-left: 40px;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  }
+
+.number-1 {
+  text-decoration: underline;
+  font-size: 20px;
+  margin-left: 30px;
+  }
+
+.number-2 {
+  text-decoration: underline;
+  font-size: 20px;
+  margin-left: 20px;
+  }
+
+.number-3 {
+  text-decoration: underline;
+  font-size: 20px;
+  margin-left: 20px;
+  }
+
+.number-4 {
+  text-decoration: underline;
+  font-size: 20px;
+  margin-left: 20px;
+  }
+
+.number-5 {
+  text-decoration: underline;
+  font-size: 20px;
+  margin-left: 20px;
+  }
+
+.stretch-box {
+  background-color: rgb(0, 128, 0);
+  border: none;
+  color: white;
+  font-size: 22px;
+  font-stretch: 80%;
+  text-rendering: auto;
+  margin-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  cursor: pointer;
+  transition: padding-top 1s, padding-bottom 1s,
+  padding-left 1s, padding-right 1s;
+ }
+
+.stretch-box:hover {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+  }
+
+.shadow-button {
+  background-color: rgb(0, 128, 0);
+  border: none;
+  color: white;
+  font-size: 22px;
+  font-stretch: 80%;
+  text-rendering: auto;
+  margin-left: 40px;
+  margin-right: 110px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+  cursor: pointer;
+  box-shadow: 2px, 2px, 4px, rgba(0, 0, 0, 0.4);
+  }
+
+.shadow-button:active {
+  margin-top: 10px;
+  margin-left: 10px;
+  box-shadow: none;
+  }
+
+.one-button {
+    background-color: green;
+    color: white;
+    border: none;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: padding 0.15s,
+    margin 0.15s;
+  }
+
+  .one-button:hover {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
+    }
+
+.four-done {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bolder;
+  background-color: #cccccc;
+  text-align: center;
+  margin-left: 40px;
+}
+
+.author-note {
+  text-align: center;
+  font-size: 20px;
+  }
