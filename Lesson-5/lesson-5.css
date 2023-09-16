@@ -1,0 +1,255 @@
+.lesson-title5 {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 5px 10px;
+  text-decoration: underline;
+  background-color: #cccccc;
+  margin: 0;
+  margin-left: 40px;
+  }
+
+.sub-title5 {
+  font-size: 20px;
+  margin: 0;
+  margin-left: 40px; 
+  }
+
+.sub-title5a {
+  font-size: 20px;
+  color: gray;
+  }
+
+.abc-title5 {
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 40px;
+  margin-bottom: 0;
+  }
+
+.abc-title5b {
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 290px;
+  margin-bottom: 0;
+  }
+
+.font-tahoma {
+  font-family: tahoma;
+  font-size: 30px;
+  font-weight: bolder;
+  margin-left: 40px;
+  margin-top: 0;
+  }
+
+.font-arial {
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: bolder;
+  margin-left: 155px;
+  }
+
+.highlight-red {
+  font-family: Arial;
+  margin-left:460px;
+  font-size: 25px;
+  font-style: italic;
+  color: red;
+  }
+
+.subj-verdana {
+  font-family: verdana;
+  font-size: 20px;
+  font-weight: bolder;
+  margin-left: 40px;
+  margin-top: 0;
+  }
+
+.subj-verdana0 {
+  font-family: verdana;
+  color: grey;
+  margin-top: 20px;
+  }
+
+.abc-title5c {
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 280px;
+  margin-bottom: 0;
+  }
+
+.subj-verdana1 {
+  font-family: verdana;
+  font-size: 20px;
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 0;
+  }
+
+.subj-arial {
+  font-family: arial;
+  font-size: 30px;
+  font-weight:bolder;
+  margin-left: 120px;
+  margin-top: 0;
+  }
+
+.apple-text {
+  font-family: arial;
+  font-size: 20px;
+  margin-left: 500px;
+  margin-top: 20px;
+  margin-bottom: 0;
+  }
+
+.get-started {
+  background-color: green;
+  color: white;
+  font-size: 18px;
+  border: none;
+  border-radius: 8px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-left: 40px;
+  margin-right: 400px;
+  margin-top: 0px;
+  }
+
+.learn {
+  color: rgb(56, 161, 247);
+  font-size: 20px;
+  }
+
+.challenge-text {
+  display: inline-block;
+  color: rgb(200, 0, 0);
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 5px 10px;
+  text-decoration: underline;
+  background-color: #cccccc;
+  margin-left: 40px;
+  margin-bottom: 0;
+  }
+
+.abc-title5e {
+  font-family: arial;
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 40px;
+  margin-bottom: 0;
+  } 
+
+.new-red {
+  color: rgb(200, 0, 0);
+  font-family: arial;
+  margin-bottom: 10px;
+  margin-top: 0;
+  padding-left: 250px;
+  }
+
+.mac-pro {
+  font-size: 24px;
+  font-weight: bold;
+  margin-right: 180px;
+  padding-left: 200px;
+  }
+
+.super-c {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  padding-left: 40px;
+  }
+
+.usd-price {
+  color: grey;
+  font-size: 20px;
+  margin-bottom: 25px;
+  padding-left: 210px;
+  margin-right: 250px;
+  }
+
+.buy-button {
+  background-color: rgb(39, 148, 238);
+  color: white;
+  font-size: 14px;
+  margin-left: 230px;
+  margin-right: 280px;
+  border: none;
+  border-radius: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+  }
+
+.price-a {
+  font-size: 30px;
+  font-family: arial;
+  margin-left: 40px;
+  }
+
+.usd-a {
+  font-size: 18px;
+  }
+
+.color-green {
+  color: green;
+  font-size: 20px;
+  font-family: arial;
+  }
+
+.color-gray {
+  color: gray;
+  font-size: 20px;
+  font-family: arial;
+  }
+
+.color-red {
+  color: red;
+  font-family: arial;
+  font-size: 20px;
+  }
+
+.text-5g {
+  font-family: arial;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 40px;
+  margin-top: 0;
+  }
+
+.web-text {
+  font-family: arial;
+  font-weight: lighter;
+  }
+
+.web-text2 {
+  font-family: arial;
+  font-size: 18px;
+  font-weight: lighter;
+  margin-left: 40px;
+  }
+
+.color-skyblue {
+  color: rgb(23, 124, 240);
+  }
+
+.five-done {
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bolder;
+  background-color: #cccccc;
+  text-align: center;
+  margin-left: 40px;
+  }
+
+.author-note {
+  text-align: center;
+  font-size: 20px;
+  }
